@@ -1,0 +1,15 @@
+C:\Users\lldav\Desktop\TERCEIRO PERIODO\POO\TrabalhoPOO\E-commerce_G2\bin\Debug\net9.0\E-commerce_G2.exe
+C:\Users\lldav\Desktop\TERCEIRO PERIODO\POO\TrabalhoPOO\E-commerce_G2\bin\Debug\net9.0\E-commerce_G2.deps.json
+C:\Users\lldav\Desktop\TERCEIRO PERIODO\POO\TrabalhoPOO\E-commerce_G2\bin\Debug\net9.0\E-commerce_G2.runtimeconfig.json
+C:\Users\lldav\Desktop\TERCEIRO PERIODO\POO\TrabalhoPOO\E-commerce_G2\bin\Debug\net9.0\E-commerce_G2.dll
+C:\Users\lldav\Desktop\TERCEIRO PERIODO\POO\TrabalhoPOO\E-commerce_G2\bin\Debug\net9.0\E-commerce_G2.pdb
+C:\Users\lldav\Desktop\TERCEIRO PERIODO\POO\TrabalhoPOO\E-commerce_G2\obj\Debug\net9.0\E-commerce_G2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lldav\Desktop\TERCEIRO PERIODO\POO\TrabalhoPOO\E-commerce_G2\obj\Debug\net9.0\E-commerce_G2.AssemblyInfoInputs.cache
+C:\Users\lldav\Desktop\TERCEIRO PERIODO\POO\TrabalhoPOO\E-commerce_G2\obj\Debug\net9.0\E-commerce_G2.AssemblyInfo.cs
+C:\Users\lldav\Desktop\TERCEIRO PERIODO\POO\TrabalhoPOO\E-commerce_G2\obj\Debug\net9.0\E-commerce_G2.csproj.CoreCompileInputs.cache
+C:\Users\lldav\Desktop\TERCEIRO PERIODO\POO\TrabalhoPOO\E-commerce_G2\obj\Debug\net9.0\E-commerce_G2.sourcelink.json
+C:\Users\lldav\Desktop\TERCEIRO PERIODO\POO\TrabalhoPOO\E-commerce_G2\obj\Debug\net9.0\E-commerce_G2.dll
+C:\Users\lldav\Desktop\TERCEIRO PERIODO\POO\TrabalhoPOO\E-commerce_G2\obj\Debug\net9.0\refint\E-commerce_G2.dll
+C:\Users\lldav\Desktop\TERCEIRO PERIODO\POO\TrabalhoPOO\E-commerce_G2\obj\Debug\net9.0\E-commerce_G2.pdb
+C:\Users\lldav\Desktop\TERCEIRO PERIODO\POO\TrabalhoPOO\E-commerce_G2\obj\Debug\net9.0\E-commerce_G2.genruntimeconfig.cache
+C:\Users\lldav\Desktop\TERCEIRO PERIODO\POO\TrabalhoPOO\E-commerce_G2\obj\Debug\net9.0\ref\E-commerce_G2.dll
