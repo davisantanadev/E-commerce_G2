@@ -167,12 +167,4 @@ O programa principal deve conter:
 
 Ao final, o sistema deve ser capaz de simular uma compra simples, desde a seleção de produtos até a confirmação do pedido, garantindo organização e clareza no código.
 
----
 
-Se quiser, posso também montar:
-
-* UML prontinho (diagraminha bonitão)
-* Código completo em C#
-* Ou até simular a saída no console
-
-Só falar 👍
