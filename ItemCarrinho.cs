@@ -8,7 +8,7 @@ namespace E_commerce_G2
    public class ItemCarrinho
 {
     private Produto Produto;
-    public int Quantidade { get; private set; }
+    public int Quantidade { get; set; }
 
     public ItemCarrinho(Produto produto, int quantidade)
     {
