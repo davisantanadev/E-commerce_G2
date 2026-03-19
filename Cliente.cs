@@ -7,10 +7,10 @@ namespace E_commerce_G2
 {
     public class Cliente
     {
-        private string nome;
-        private string endereco;
-        private string telefone;
-        private string formaDePagamento;
+        private string? nome;
+        private string? endereco;
+        private string? telefone;
+        private string? formaDePagamento;
 
         public string Nome
         {
